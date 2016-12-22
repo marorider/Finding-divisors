@@ -1,7 +1,7 @@
 function divisor () {
 var s
 var n1 = 
-  document.getElementById("number");
+  document.getElementById('number');
 if (n1 !== Number) {
   alert ('Podaj Liczbę!')
   } else {
